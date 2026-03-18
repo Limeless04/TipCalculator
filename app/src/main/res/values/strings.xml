@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="enter_bill_amount">Enter Bill Amount</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="total">Total: Rp0,00</string>
+    <string name="tip_calulator">Tip Calulator</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="tip_amount_value">Rp0,00</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="total_bill_value">Rp0,00</string>
+</resources>

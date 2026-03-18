@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_input_height">60dp</dimen>
+    <dimen name="header_height">48dp</dimen>
+
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="screen_padding">20dp</dimen>
+
+    <dimen name="text_large">22sp</dimen>
+</resources>
